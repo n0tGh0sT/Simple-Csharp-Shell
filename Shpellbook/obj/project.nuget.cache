@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2K6/zCV//kJRGNkGDp1sGO7BV3MLwwaXE+el239rzQWH8x38BUYMb0KTJCjdPz9onSBJ7tiG3or5HDduzU/sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bourb\\epita\\tp13-martin.bourbier\\Shpellbook\\Shpellbook\\Shpellbook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bourb\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\bourb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

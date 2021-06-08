@@ -1,0 +1,13 @@
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\bin\Debug\netcoreapp3.1\Shpellbook.exe
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\bin\Debug\netcoreapp3.1\Shpellbook.deps.json
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\bin\Debug\netcoreapp3.1\Shpellbook.runtimeconfig.json
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\bin\Debug\netcoreapp3.1\Shpellbook.runtimeconfig.dev.json
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\bin\Debug\netcoreapp3.1\Shpellbook.dll
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\bin\Debug\netcoreapp3.1\Shpellbook.pdb
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\obj\Debug\netcoreapp3.1\Shpellbook.csprojAssemblyReference.cache
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\obj\Debug\netcoreapp3.1\Shpellbook.AssemblyInfoInputs.cache
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\obj\Debug\netcoreapp3.1\Shpellbook.AssemblyInfo.cs
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\obj\Debug\netcoreapp3.1\Shpellbook.csproj.CoreCompileInputs.cache
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\obj\Debug\netcoreapp3.1\Shpellbook.dll
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\obj\Debug\netcoreapp3.1\Shpellbook.pdb
+C:\Users\bourb\epita\tp13-martin.bourbier\Shpellbook\Shpellbook\obj\Debug\netcoreapp3.1\Shpellbook.genruntimeconfig.cache
